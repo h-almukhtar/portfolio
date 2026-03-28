@@ -55,3 +55,16 @@ button {
   padding: 10px;
   cursor: pointer;
 }
+
+a button {
+  background: #22c55e;
+  border: none;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+a button:hover {
+  background: #16a34a;
+}
